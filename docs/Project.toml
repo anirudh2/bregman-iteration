@@ -1,0 +1,3 @@
+[deps]
+BregmanIteration = "9528dc94-4706-4a3f-ab44-332db574af19"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
